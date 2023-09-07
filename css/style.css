@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+.wrapper{
+    text-align: center;
+    max-width: 1200px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.titolo{
+    color: rgb(255, 0, 0);
+    font-style: fredoka;
+    text-align: center;
+}
+
